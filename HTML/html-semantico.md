@@ -200,7 +200,7 @@ O elemento `<img>` determina a real imagem/ilustração.
 
 `<figure>`
   `<img src="pic_trulli.jpg" alt="Trulli">`
-  `<figcaption>Fig1. - Trulli, Puglia, Italy.</figcaption>`
+  `<figcaption>`Fig1. - Trulli, Puglia, Italy.`</figcaption>`
 `</figure>`
 
 
