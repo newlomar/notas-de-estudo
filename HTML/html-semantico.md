@@ -1,6 +1,6 @@
 # HTML Semântico
 
-- HTML semântico é a prática de utilizar a construção do arquvio HTML de forma que os elementos passem mais informação para o usuário e para os dispositivos que vão interagir com essa página, do que apenas uma estrutura de exibição visual.
+- HTML semântico é a prática de utilizar a construção do documento HTML de forma que os elementos passem mais informações para o usuário e para os dispositivos que vão interagir com esse documento, do que apenas uma estrutura de exibição visual.
 
 
 ## O que são Elementos semânticos?
@@ -49,9 +49,9 @@ Existem alguns elementos semânticos em HTML que podem ser usado para diferentes
 
 O elemento `<section>` define uma seção no documento.
 
-De acordo com a documentação de HTML W3C's: *"Uma **section** é um agrupamento temático de conteúdo, tipicamente com um cabeçalho (tipically with a heading).*
+De acordo com a documentação de HTML W3C's: *"Uma **section** é um agrupamento temático de conteúdo, normalmente com um cabeçalho*
 
-Uma página web pode normalmente ser dividida em seções para intrução, conteúdo e informação de contato.
+Uma página web pode normalmente ser dividida em seções para introdução, conteúdo e informação de contato.
 
 #### Exemplo de duas seções em um documento:
 
