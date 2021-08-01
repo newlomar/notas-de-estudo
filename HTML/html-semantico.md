@@ -203,7 +203,9 @@ O elemento `<img>` determina a real imagem/ilustração.
   `<figcaption>`Fig1. - Trulli, Puglia, Italy.`</figcaption>`
 `</figure>`
 
-
+<br>
+<br>
+<br>
 #### Fonte
 
 Esse rascunho teve como base o estudo e a tradução da página: &copy; https://www.w3schools.com/html/html5_semantic_elements.asp
