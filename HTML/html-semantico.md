@@ -208,7 +208,7 @@ O elemento `<img>` determina a real imagem/ilustração.
 
 Esse rascunho teve como base o estudo e a tradução da página: &copy; https://www.w3schools.com/html/html5_semantic_elements.asp
 
-Ele não é uma tradução direta e tem comentários e adições de conteúdos e conclusões de minha autoria: &copy; *Newton Lomar*
+Ele não é uma tradução direta pois apresenta comentários, adições de conteúdos e conclusões de minha autoria: &copy; *Newton Lomar*
 
 ##### Links adicionais e úteis:
 
